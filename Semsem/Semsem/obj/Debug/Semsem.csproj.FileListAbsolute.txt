@@ -1,0 +1,7 @@
+C:\Users\Sameh\source\repos\Semsem\Semsem\obj\Debug\Semsem.csprojAssemblyReference.cache
+C:\Users\Sameh\source\repos\Semsem\Semsem\obj\Debug\Semsem.csproj.CoreCompileInputs.cache
+C:\Users\Sameh\source\repos\Semsem\Semsem\bin\Debug\Semsem.exe.config
+C:\Users\Sameh\source\repos\Semsem\Semsem\bin\Debug\Semsem.exe
+C:\Users\Sameh\source\repos\Semsem\Semsem\bin\Debug\Semsem.pdb
+C:\Users\Sameh\source\repos\Semsem\Semsem\obj\Debug\Semsem.exe
+C:\Users\Sameh\source\repos\Semsem\Semsem\obj\Debug\Semsem.pdb
