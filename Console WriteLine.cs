@@ -12,6 +12,7 @@ namespace Console_WriteLine
         {
             Console.WriteLine(1234567);
             Console.WriteLine("Hi Sameh");
+            Console.WriteLine("Hi Rami Gamal");
         }
     }
 }
